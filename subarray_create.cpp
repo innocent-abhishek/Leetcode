@@ -8,7 +8,10 @@ int main(){
 
   for(int i=0;i<n;i++)
   {
-    cout<<nums[i]<<" ";
+    for(int j=0;j<n;j++)
+    {
+         cout<<nums[j]<<" ";
+    }
   }
 
 

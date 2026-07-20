@@ -1,0 +1,55 @@
+# =========================
+# Compiled Executables
+# =========================
+*.exe
+*.out
+*.app
+*.bin
+
+# Object files
+*.o
+*.obj
+
+# Static & Dynamic Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+
+# =========================
+# Build folders
+# =========================
+build/
+bin/
+Debug/
+Release/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# CMake
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
