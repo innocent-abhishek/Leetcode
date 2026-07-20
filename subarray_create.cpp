@@ -12,6 +12,8 @@ int main(){
     {
          cout<<nums[j]<<" ";
     }
+    cout<<endl;
+    
   }
 
 
