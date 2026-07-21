@@ -1,5 +1,10 @@
 /*if the number is not zero 
-then swap th
+then swap the values of i and k;
+increment k by 1;
+k++;
+else 
+just MOVE ON ;
+i++;
 */
 
 class Solution {
