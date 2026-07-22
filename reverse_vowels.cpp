@@ -1,3 +1,9 @@
+/*if i is not vowels then increment i (i++)
+ if j is not vowel then increment j by (j++)
+ if both are vowels then swap them anf increnment i(i++) decrement j(j--)*/
+
+
+
 class Solution {
 public:
 
