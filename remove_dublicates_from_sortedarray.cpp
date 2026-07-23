@@ -34,6 +34,6 @@ public:
              {
                 nums[h]='_';
              }
-             return k;
+             return k;-
     }
 };
